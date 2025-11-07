@@ -1,9 +1,11 @@
 # 🇺🇳 UNFCK
 
-The **United Nations Facility for Kindness and Collaboration** is a fictitious organization dedicated to advancing the United Nations www ecosystem by creating open websites that inspire innovation.
+The **United Nations Framework for Kindness and Collaboration** is a fictitious organization dedicated to advancing the United Nations digital ecosystem by creating open websites that inspire innovation and increase transparency.
 
-The facility stands in the tradition of [g0v.tw](https://github.com/g0v), [bund.dev](https://github.com/bundesAPI), and citizen initiatives around the world.
+We stand in the tradition of [bund.dev](https://github.com/bundesAPI), [g0v.tw](https://github.com/g0v), and other citizen initiatives around the world.
 
 We aim to disrupt constructively.
 
-- [webtv.unfck.org](https://webtv.unfck.org) [:octocat:](https://github.com/unfcked/webtv.unfck.org)
+- [webtv.unfck.org](https://webtv.unfck.org) [:octocat:](https://github.com/un-fck/webtv.unfck.org)
+- [results.unfck.org](https://results.unfck.org/)
+- [domains.unfck.org](https://domains.unfck.org/)
