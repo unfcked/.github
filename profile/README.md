@@ -1,6 +1,6 @@
 # 🇺🇳 UNFCK
 
-The **United Nations Framework for Kindness and Collaboration** is a fictitious organization dedicated to advancing the United Nations digital ecosystem by creating open websites that inspire innovation and increase transparency and impact.
+The **United Nations Framework for Collaboration and Kindness** is a fictitious organization dedicated to advancing the United Nations digital ecosystem by creating open websites that inspire innovation and increase transparency and impact.
 
 We stand in the tradition of [bund.dev](https://github.com/bundesAPI), [g0v.tw](https://github.com/g0v), and other citizen initiatives around the world.
 
